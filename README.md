@@ -279,7 +279,7 @@ Cross-Chain-Hub/
 ## Self-Hosting
 
 ```bash
-git clone https://github.com/Harmain11/Cross-Chain-Hub.git
+git clone https://github.com/Junaidparacha1995/Cross-Chain-Hub.git
 cd Cross-Chain-Hub
 pnpm install
 cp .env.example .env   # add ANTHROPIC_API_KEY and DATABASE_URL
@@ -296,7 +296,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full local dev guide.
 
 PRs welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
-- 🐛 [Report a bug](https://github.com/Harmain11/Cross-Chain-Hub/issues/new?template=bug_report.md)
+- 🐛 [Report a bug](https://github.com/Junaidparacha1995/Cross-Chain-Hub/issues/new?template=bug_report.md)
 - 💡 [Request a feature](https://github.com/Harmain11/Cross-Chain-Hub/issues/new?template=feature_request.md)
 - 🌟 **Star this repo** if AURA Forge saves you time
 
@@ -304,7 +304,7 @@ PRs welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 ## License
 
-MIT © [Harmain11](https://github.com/Harmain11)
+MIT © [Junaidparacha1995](https://github.com/Junaidparacha1995)
 
 ---
 
@@ -312,6 +312,6 @@ MIT © [Harmain11](https://github.com/Harmain11)
 
 **Built with Claude · Deployed on Replit · Published on npm**
 
-[⭐ Star this repo](https://github.com/Harmain11/Cross-Chain-Hub) if you find it useful!
+[⭐ Star this repo](https://github.com/Junaidparacha1995/Cross-Chain-Hub) if you find it useful!
 
 </div>
